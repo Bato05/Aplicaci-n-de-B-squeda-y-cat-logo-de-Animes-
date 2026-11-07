@@ -1,5 +1,9 @@
 # Ghibli App - Catálogo y Búsqueda de Películas de Studio Ghibli
 
+## Vista Previa
+
+https://github.com/user-attachments/assets/5df99c5a-c8ff-4e03-b1bb-44e4dc61acc1
+
 ## Introducción
 
 App Android (Kotlin) que consume la API pública [Studio Ghibli API](https://ghibliapi.vercel.app/) para explorar las películas del estudio, buscarlas por título en tiempo real y guardar favoritas en una base de datos local SQLite que se puede consultar sin internet.
