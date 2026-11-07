@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GhibliApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ghibli_green</item>
+        <item name="colorSecondary">@color/ghibli_green_light</item>
+    </style>
+
+    <style name="Theme.GhibliApp" parent="Base.Theme.GhibliApp" />
+</resources>

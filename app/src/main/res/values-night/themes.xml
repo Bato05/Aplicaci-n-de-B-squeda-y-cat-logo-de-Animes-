@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme (modo oscuro). -->
+    <style name="Base.Theme.GhibliApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ghibli_green_light</item>
+        <item name="colorSecondary">@color/ghibli_green</item>
+    </style>
+</resources>

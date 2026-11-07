@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ghibli App</string>
+
+    <!-- BottomNavigationView -->
+    <string name="nav_films">Películas</string>
+    <string name="nav_favorites">Favoritos</string>
+
+    <!-- Buscador -->
+    <string name="search_hint">Buscar película por título…</string>
+
+    <!-- Ítem de la lista. rt_score es el puntaje de Rotten Tomatoes (0 a 100). -->
+    <string name="score_format">★ %1$s / 100</string>
+    <string name="score_not_available">★ Sin puntaje</string>
+    <string name="cd_film_poster">Póster de la película</string>
+    <string name="cd_add_favorite">Agregar a favoritos</string>
+    <string name="cd_remove_favorite">Quitar de favoritos</string>
+
+    <!-- Estados vacíos -->
+    <string name="empty_favorites">No tenés películas guardadas.\nMarcá la estrella ⋆ en la pantalla Películas.</string>
+    <string name="empty_films">No se encontraron películas.</string>
+    <string name="empty_search">No se encontraron películas para \"%1$s\".</string>
+
+    <!-- Errores (los arman los ViewModels) -->
+    <string name="error_connection">Error de conexión. Verificá tu conexión a internet.</string>
+    <string name="error_server">Error del servidor (código %1$d).</string>
+    <string name="error_unexpected">Ocurrió un error inesperado.</string>
+    <string name="error_with_retry">%1$s\n\nTocá acá para reintentar.</string>
+    <string name="error_favorite">No se pudo actualizar el favorito.</string>
+</resources>

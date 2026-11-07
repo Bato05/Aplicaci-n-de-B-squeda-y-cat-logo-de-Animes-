@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Verde de los bosques de Studio Ghibli (temática de la app) -->
+    <color name="ghibli_green">#FF2E7D32</color>
+    <color name="ghibli_green_light">#FF81C784</color>
+    <color name="placeholder_grey">#FF9E9E9E</color>
+</resources>
