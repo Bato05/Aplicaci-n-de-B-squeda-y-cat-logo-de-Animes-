@@ -2,7 +2,7 @@
 
 ## Vista Previa
 
-https://github.com/user-attachments/assets/5df99c5a-c8ff-4e03-b1bb-44e4dc61acc1
+https://github.com/user-attachments/assets/1f270fdf-d151-49b3-b944-6c2a78bfa059
 
 ## Introducción
 
